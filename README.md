@@ -10,6 +10,7 @@ components. With the new version created, the aim is to considerably expand the
 functionalities offered and adapt the present elements in the project. The application places
 particular emphasis on the methodology used, focused on adapting to the situation the user
 is currently in, which is called Situational Method Engineering.<br>
+<br>
 The system is a proposal made by the software and services engineering research group
 (GESSI) of the UPC. This new version will give greater value to the system, improving the
 tools of research groups interested in the use of the methodology.
