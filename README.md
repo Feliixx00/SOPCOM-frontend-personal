@@ -1,10 +1,22 @@
 # SOPCOMFrontend
 ![](app_showcase.png)
 
-
+## Information
+Frontend of the Final Project of Computer Science Degree<br>
+<br>
+In this project, the development of SOPCOM has continued, a tool that consists of a web
+application and an API, which aims to provide the ability to manage software process
+components. With the new version created, the aim is to considerably expand the
+functionalities offered and adapt the present elements in the project. The application places
+particular emphasis on the methodology used, focused on adapting to the situation the user
+is currently in, which is called Situational Method Engineering.<br>
+The system is a proposal made by the software and services engineering research group
+(GESSI) of the UPC. This new version will give greater value to the system, improving the
+tools of research groups interested in the use of the methodology.
 
 <br>
 <br>
+
 ## Development server
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
